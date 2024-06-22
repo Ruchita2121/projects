@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_cart" value="name:shop_id;datatype:int,name:productid;datatype:int,name:shopcart_qty;datatype:int,name:shopcart_date;datatype:timestamp,name:shopcart_usercookie;datatype:string" />
+	<infoitem key="UD_prod" value="name:Prod_ID;datatype:int,name:Prod_thumb;datatype:string" />
+	<infoitem key="UD_rsCart" value="name:shop_id;datatype:int,name:productid;datatype:int,name:shopcart_qty;datatype:int,name:shopcart_date;datatype:timestamp,name:shopcart_usercookie;datatype:string" />
+	<infoitem key="UD_rsProd" value="name:Prod_Name;datatype:string,name:Prod_thumb;datatype:string" />
+</info>

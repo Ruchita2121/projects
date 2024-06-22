@@ -1,0 +1,14 @@
+.content{
+	display: flex;
+	width: 100%;
+}
+.catbox{
+	width:22%;
+	height:500px;
+	padding: 10px;
+}
+.catbox img{
+	width:200px;
+	height:300px;
+	padding: 10px;
+}

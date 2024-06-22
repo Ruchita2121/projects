@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsOrders" value="name:OrderID;datatype:int,name:CustomerID;datatype:int,name:C_order_date;datatype:timestamp,name:OrderTotal;datatype:real" />
+	<infoitem key="UD_orderItems" value="name:order_item_id;datatype:int,name:OrderID;datatype:int,name:productid;datatype:int,name:order_item_qty;datatype:int,name:productprice;datatype:real" />
+</info>

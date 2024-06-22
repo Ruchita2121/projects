@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsCategories" value="name:CatID;datatype:int,name:CatName;datatype:string,name:CatDescription;datatype:blob" />
+	<infoitem key="UD_rsViewCat" value="name:CatID;datatype:int,name:CatName;datatype:string,name:CatDescription;datatype:blob" />
+</info>

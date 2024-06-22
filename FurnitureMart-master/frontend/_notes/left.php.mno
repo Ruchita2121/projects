@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsCategories" value="name:CatID;datatype:int,name:CatName;datatype:string,name:CatDescription;datatype:blob" />
+	<infoitem key="UD_rsCust" value="name:CustID;datatype:int,name:Cust_Surname;datatype:string,name:Cust_Othername;datatype:string,name:Title_Id;datatype:int,name:Cust_Address;datatype:string,name:Cust_Town;datatype:string,name:Cust_Email;datatype:string,name:CustPassword;datatype:string,name:cust_Gender;datatype:string,name:Cust_Active;datatype:string,name:Cust_news;datatype:string,name:ActivationCode;datatype:string,name:login_level;datatype:string" />
+</info>
